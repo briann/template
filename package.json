@@ -7,7 +7,7 @@
     "clean": "rm -rf build",
     "compile": "tsc -p .",
     "lint": "tslint -c tslint.json 'src/**/*.ts*' 'test/**/*.ts*'",
-    "start": "node build/index.js",
+    "start": "node build/src/index.js",
     "test": "mocha build/test"
   },
   "repository": {
