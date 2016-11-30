@@ -8,6 +8,10 @@
   version "2.2.32"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.32.tgz#dda0da6eaf2195d2ff808f42a1725b1a19e7ed69"
 
+"@types/node":
+  version "0.0.1"
+  resolved "https://artifactory.palantir.build:443/artifactory/api/npm/all-npm/@types/node/-/node-0.0.1.tgz#d90a4d3bf1fe8f961edf0f76f34a7a6df79580be"
+
 ansi-regex@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.0.0.tgz#c5061b6e0ef8a81775e50f5d66151bf6bf371107"
